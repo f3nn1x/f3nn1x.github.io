@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "snowscan.io"
-title_separator          : "-"
-name                     : "Snowscan"
-description              : "Posts about security, CTFs and networking"
+title                    : "F3n1x | Ciberseguridad y Hacking Etico"
+title_separator          : "|"
+name                     : "f3n1x"
+description              : "Articulos sobre Ciberseguridad, CTFs e Investigacion"
 url                      : "https://snowscan.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "slemire/slemire.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Snowscan"
+  name             : "FR4NKL1N"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Pentester, CTF player<br>HackTheBox ATeam"
-  location         : "Canada"
-  email            : "info@snowscan.io"
+  bio              : "White hat hacker.<br>Programador.<br>Pentester.<br>Hacking, Pentesting,<br>Programacion."
+  location         : #"Canada"
+  email            : #"info@snowscan.io"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,10 +114,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "slemire"
+  github           : "f3nn1x"
   gitlab           :
   google_plus      :
-  keybase          : "snowscan"
+  keybase          : #"snowscan"
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
@@ -126,7 +126,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "snowscan"
+  twitter          : #"___F3n1x___"
   vine             :
   weibo            :
   xing             :
